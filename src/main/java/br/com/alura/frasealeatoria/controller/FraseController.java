@@ -1,5 +1,7 @@
-package br.com.alura.frasealeatoria;
+package br.com.alura.frasealeatoria.controller;
 
+import br.com.alura.frasealeatoria.service.FraseService;
+import br.com.alura.frasealeatoria.domain.FraseDTO;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

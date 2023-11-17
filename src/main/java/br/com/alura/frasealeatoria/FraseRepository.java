@@ -1,5 +1,6 @@
 package br.com.alura.frasealeatoria;
 
+import br.com.alura.frasealeatoria.domain.Frase;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

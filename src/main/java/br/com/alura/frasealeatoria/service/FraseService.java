@@ -1,5 +1,8 @@
-package br.com.alura.frasealeatoria;
+package br.com.alura.frasealeatoria.service;
 
+import br.com.alura.frasealeatoria.FraseRepository;
+import br.com.alura.frasealeatoria.domain.Frase;
+import br.com.alura.frasealeatoria.domain.FraseDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

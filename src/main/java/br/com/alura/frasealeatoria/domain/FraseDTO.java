@@ -1,4 +1,6 @@
-package br.com.alura.frasealeatoria;
+package br.com.alura.frasealeatoria.domain;
+
+import br.com.alura.frasealeatoria.domain.Frase;
 
 public record FraseDTO(
         String titulo,

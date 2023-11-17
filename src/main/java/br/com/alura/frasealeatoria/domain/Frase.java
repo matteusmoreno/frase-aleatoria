@@ -1,4 +1,4 @@
-package br.com.alura.frasealeatoria;
+package br.com.alura.frasealeatoria.domain;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
