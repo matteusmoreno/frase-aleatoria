@@ -18,7 +18,7 @@ Este é um projeto Spring Boot que fornece frases aleatórias de séries e filme
 5. Execute o aplicativo usando o Spring Boot.
 
 ```bash
--GET /series/frases`: Obtenha frase aleatória.
+-GET /series/frases: Obtenha frase aleatória.
 ``` 
 
 ### Resolução do Desafio da Alura: https://github.com/jacqueline-oliveira/3356-java-desafio-web
