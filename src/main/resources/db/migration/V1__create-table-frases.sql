@@ -1,6 +1,7 @@
 CREATE TABLE frases (
     id BIGINT PRIMARY KEY AUTO_INCREMENT,
+    frase VARCHAR(255) NOT NULL,
     titulo VARCHAR(255) NOT NULL,
     personagem VARCHAR(255) NOT NULL,
-    poster VARCHAR(255) NOT NULL,
+    poster VARCHAR(255) NOT NULL
 );
